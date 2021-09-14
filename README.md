@@ -29,7 +29,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/Sajan491/github-readme-streak-stats">
         <img title="dots" alt="Sajan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sajan491&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
