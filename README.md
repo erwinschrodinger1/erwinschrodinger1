@@ -12,7 +12,7 @@
 
 
 ## 🚀 Languages and Tools:
-<p align="left"> 
+<!-- <p align="left"> 
     
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -28,7 +28,7 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/color/96/000000/django.png"/></a> 
-</p>
+</p> -->
 
 <p align="center">
     <a href="https://github.com/Sajan491/github-readme-streak-stats">
