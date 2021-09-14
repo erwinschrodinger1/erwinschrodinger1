@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
-- 📫 How to reach me **sajanmahat491@gmail.com**
+- 📫 Gmail: **sajanmahat491@gmail.com**
 
 
 ## 🚀 Languages and Tools:
