@@ -42,7 +42,7 @@
 <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajan491&layout=compact&theme=midnight-purple&bg_color=0d1117" />
 
 ---
-<br/>
+
 
 <a href=""><img alt="Sajan Mahat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sajan491&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
