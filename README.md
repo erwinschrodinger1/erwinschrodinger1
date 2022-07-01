@@ -38,15 +38,13 @@
 
 ---
 
-<a href=""><img alt="Sajan Mahat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=erwinschrodinger1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href=""><img alt="Nirjal Bhurtel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=erwinschrodinger1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## Connect with me:
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/sajan-mahat-a476b6184/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/saazan_mahat/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCEX2d7LpD4DcsRsSc_xr4tQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/nirjal-bhurtel-163510149/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
