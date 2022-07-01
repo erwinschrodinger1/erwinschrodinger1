@@ -25,8 +25,8 @@
 </p>
 
 <p align="left">
-    <a href="https://github.com/Sajan491/github-readme-streak-stats">
-        <img title="dots" alt="Sajan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sajan491&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/erwinschrodinger1/github-readme-streak-stats">
+        <img title="dots" alt="Sajan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=erwinschrodinger1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
