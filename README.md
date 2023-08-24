@@ -45,7 +45,7 @@
                   </tr>
                 </tbody>
             </table>
-            <i>Jokes apart. I am profount in:</i>
+            <i>Jokes apart. I am profound in:</i>
             <p align="left">
                 1. JS / TS (Backend- Express, frontend: any<br> &nbsp &nbsp (includes html, css, sass,tailwind etc) <br>
                 2. Python (Backend - Django, flask, fastApi,<br> &nbsp &nbsp Data Analysis: any(based on problem specifit))<br>
