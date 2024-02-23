@@ -12,7 +12,7 @@
     <tr>
         <th style="text-align:center">
             <div>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erwinschrodinger1" >
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erwinschrodinger1&locale=np" >
                 <br>
                 <i>Not Accurate though</i>
             </div>
@@ -60,7 +60,7 @@
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=erwinschrodinger1">    
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=erwinschrodinger1">
+            <img src="https://github-readme-stats.vercel.app/api?username=erwinschrodinger1&locale=np">
         </td>
     </tbody>
     
