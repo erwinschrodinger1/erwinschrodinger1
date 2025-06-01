@@ -1,9 +1,8 @@
 <img src="https://github.com/erwinschrodinger1/erwinschrodinger1/assets/81609547/47ba8c5e-b1c2-4306-9809-42626f069551" width="100%">
-<h1> Currently Doing </h1>
+<h1> Recent Open Source Contributions </h1>
 <p>
-    1. President, Kathmandu Univeristy Computer Club (KUCC) <br>
-    2. Learning Rust <br>
-    2. Contributing on KUOSC https://github.com/kuosc2005
+    1. ESP USB: https://github.com/espressif/esp-usb/pull/171
+    2. gtk4rs: https://github.com/gtk-rs/gtk4-rs/pull/1486
 </p>
 
 <h1> Top Languages</h1>
