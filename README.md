@@ -1,7 +1,7 @@
 <img src="https://github.com/erwinschrodinger1/erwinschrodinger1/assets/81609547/47ba8c5e-b1c2-4306-9809-42626f069551" width="100%">
 <h1> Recent Open Source Contributions </h1>
 <p>
-    1. ESP USB: https://github.com/espressif/esp-usb/pull/171
+    1. ESP USB: https://github.com/espressif/esp-usb/pull/171 <br>
     2. gtk4rs: https://github.com/gtk-rs/gtk4-rs/pull/1486
 </p>
 
